@@ -1,4 +1,1 @@
 hello git
-hello python
-hello c
-hello kitty
